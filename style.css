@@ -1,0 +1,26 @@
+.m {
+    background-color: aliceblue;
+    border-radius: 12px;
+    width: 180px;
+    height: 40px;
+    font-size: 18px;
+    color: rgb(26, 26, 26)
+}
+
+.m:hover {
+    background-color: aliceblue;
+    border-radius: 12px;
+    color: rgb(26, 26, 26)
+}
+
+.object-detect {
+    background-color: rgb(174, 160, 221);
+    width: 300px;
+    padding:3px;
+    margin-bottom: 3px;
+}
+
+.object-detect:hover {
+    background-color: rgb(174, 160, 221);
+    width: 300px;
+}
