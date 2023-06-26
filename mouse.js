@@ -2,7 +2,7 @@ let statuscocossd = "";
 let objects = [];
 sentry = "";
 function preload() {
-  sentry = loadImage("sentry.png");
+  sentry = loadImage("Mouse-header.png");
 }
 
 function setup() {

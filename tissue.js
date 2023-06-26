@@ -2,7 +2,7 @@ let statuscocossd = "";
 let objects = [];
 sentry = "";
 function preload() {
-    sentry = loadImage("turret.png");
+    sentry = loadImage("tissue.jpg");
 }
 
 function setup() {
